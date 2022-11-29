@@ -1,0 +1,62 @@
+{
+  "Monday": [
+    {
+      "type": "open",
+      "value": "8: 00: 00"
+    },
+    {
+      "type": "open",
+      "value": "14: 00: 00"
+    },
+    {
+      "type": "close",
+      "value": "13: 00: 00"
+    },
+    {
+      "type": "close",
+      "value": "20: 00: 00"
+    }
+  ],
+  "Tuesday": [
+    {
+      "type": "open",
+      "value": "8: 00: 00"
+    },
+    {
+      "type": "close",
+      "value": "17: 00: 00"
+    }
+  ],
+  "Wednesday": [],
+  "Thursday": [
+    {
+      "type": "open",
+      "value": "8: 00: 00"
+    },
+    {
+      "type": "close",
+      "value": "17: 00: 00"
+    }
+  ],
+  "Friday": [
+    {
+      "type": "open",
+      "value": "17: 00: 00"
+    }
+  ],
+  "Saturday": [
+    {
+      "type": "close",
+      "value": "1: 00: 00"
+    },
+    {
+      "type": "open",
+      "value": "8: 00: 00"
+    },
+    {
+      "type": "close",
+      "value": "18: 00: 00"
+    }
+  ],
+  "Sunday": []
+}
